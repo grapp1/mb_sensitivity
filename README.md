@@ -25,9 +25,11 @@ Subdirectories:
 
 
 Scenarios respond to each letter designation:
-  - A - homogeneous
-  - B - two-layered
-  - C - three-layered
-  - D - exponential decay
-  - E - anisotropic
-  - F - variable soil
+
+  - A - Homogeneous
+  - B - Two-layered
+  - C - Three-layered
+  - D - Low-k Exponential Decay
+  - F - Variable Soil
+  - G - High-k Exponential Decay
+  - H - Anisotropic
